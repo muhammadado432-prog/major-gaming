@@ -12,7 +12,9 @@
 [Your Vercel URL goes here once you deploy]
 
 ## HTML Validation
-[Your validation result — a link or note about the screenshot]
+![Home Page Validation](validation1.png)
+![About Page Validation](validation2.png)
+![Contact Page Validation](validation3.png)
 
 ## Built With
 - HTML5
