@@ -9,7 +9,7 @@
 - Contact Us (contact Us.html)
 
 ## Live Site
-[Your Vercel URL goes here once you deploy]
+[https://major-gaming-navy.vercel.app/]
 
 ## HTML Validation
 ![Home Page Validation](validation1.jpg)
